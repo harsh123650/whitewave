@@ -1,7 +1,7 @@
-WhiteWave – WhiteLegacy Newsletter 🌿📰
+🌿📰 WhiteWave – WhiteLegacy Newsletter 
 ![Home Page](whitewavehome.png)
 
-## 🌍 [Live Demo](https://whitelegacy.onrender.com)# whitewave
+## 🌍 [Live Demo](https://whitewavenewsletter.netlify.app/)
 
 
 Welcome to **WhiteWave**, the official newsletter platform of **WhiteLegacy Dairy Farm** – an all-in-one solution to keep farmers, dairy professionals, and enthusiasts updated with seasonal tips, AI-powered farming insights, and community success stories.
